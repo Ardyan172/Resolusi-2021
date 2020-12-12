@@ -3,7 +3,10 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * Framework
+    ^ vue
 - PHP Framework
+  ^ laravel
 - Interview
 - Vlog
+- Python
   
