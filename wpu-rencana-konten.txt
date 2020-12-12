@@ -9,6 +9,7 @@ RENCANA KONTEN WPUs
 - Struktur data dasar
 - PHP Framework
   * Laravel
+  * Codeigniter
 - Interview
 - Vlog
 - Python
