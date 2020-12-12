@@ -3,3 +3,6 @@ jam 06.00 -> Bangun pagi
 jam 07.30 -> Absen
 jam 07.30 -> Mengerjakan tugas
 jam 09.00 -> Istirahat
+jam 09.30 -> Absen yang kedua
+jam 09.30 -> Mengerjakan tugas
+jam 11.00 -> istirahat yang kedua
