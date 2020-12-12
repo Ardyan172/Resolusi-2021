@@ -1,12 +1,14 @@
-RENCANA KONTEN WPU
+Ini rencana konten WPU yang disarankan si A
+RENCANA KONTEN WPUs
 
 - Javascript
   * ES6
   * Framework
-    ^ angular
+    ^ Vue
     ^ react
+- Struktur data dasar
 - PHP Framework
-  ^ laravel
+  * Laravel
 - Interview
 - Vlog
-  
+- Python
