@@ -1,5 +1,0 @@
-Jadi branch atau cabang digunakan untuk fitur yang masih ragu-ragu untuk diterapkan
-Rencana saya yang masih ragu-ragu di tahun 2021
-1. Belajar JAVA
-2. Belajar network
-3. Belajar Big Data
