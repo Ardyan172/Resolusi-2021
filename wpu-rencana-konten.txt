@@ -6,6 +6,7 @@ RENCANA KONTEN WPUs
   * Framework
     ^ Vue
     ^ react
+- Struktur data dasar
 - PHP Framework
   * Laravel
 - Interview
